@@ -1,6 +1,6 @@
 {
   "name": "nuxt-intersection-observer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt module using Intersection Observer API to trigger animations with a Vue custom directive.",
   "repository": "michaelsynan/nuxt-intersection-observer",
   "license": "MIT",
