@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-intersection-observer",
+  "version": "1.0.0",
+  "description": "A simple implementation of Intersection Observer API using a Vue custom directive for Nuxt",
+  "main": "src/module.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "prepack": "nuxt build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelsynan/nuxt-intersection-observer.git"
+  },
+  "author": "Michael Synan <hello@michaelsynan.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^3.12.2"
+  }
+}
